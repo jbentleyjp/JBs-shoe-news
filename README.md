@@ -9,7 +9,7 @@ Check out the latest sneaker news at:
 
 ### Preview of the website:
 
-![shoenews](./shoenews.pgn)
+![shoenews](./shoenews.png)
 
 
 
